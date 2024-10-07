@@ -1,5 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  basePath: "/sb1-pacific-v6",
   output: 'export',
   eslint: {
     ignoreDuringBuilds: true,
